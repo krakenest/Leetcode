@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prince950408/Leetcode/tree/master/0009-palindrome-number) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/prince950408/Leetcode/tree/master/0008-string-to-integer-atoi) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
