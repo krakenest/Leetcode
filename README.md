@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prince950408/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prince950408/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
