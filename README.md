@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince950408/Leetcode/tree/master/0001-two-sum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prince950408/Leetcode/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/prince950408/Leetcode/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
