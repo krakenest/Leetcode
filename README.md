@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prince950408/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prince950408/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prince950408/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/prince950408/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prince950408/Leetcode/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/prince950408/Leetcode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/prince950408/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/prince950408/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/prince950408/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/prince950408/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prince950408/Leetcode/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince950408/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince950408/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/prince950408/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prince950408/Leetcode/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/prince950408/Leetcode/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
