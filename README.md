@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince950408/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prince950408/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prince950408/Leetcode/tree/master/0018-4sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prince950408/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince950408/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prince950408/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince950408/Leetcode/tree/master/0011-container-with-most-water) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Trie
 |  |
 | ------- |
@@ -111,8 +114,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince950408/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prince950408/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prince950408/Leetcode/tree/master/0018-4sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prince950408/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
