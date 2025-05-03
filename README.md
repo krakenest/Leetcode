@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prince950408/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prince950408/Leetcode/tree/master/0020-valid-parentheses) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prince950408/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince950408/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/prince950408/Leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/prince950408/Leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -166,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
