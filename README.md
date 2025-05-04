@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prince950408/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prince950408/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prince950408/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prince950408/Leetcode/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prince950408/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/prince950408/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/prince950408/Leetcode/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prince950408/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/prince950408/Leetcode/tree/master/0022-generate-parentheses) |
 ## Queue
 |  |
 | ------- |
