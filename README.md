@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prince950408/Leetcode/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/prince950408/Leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
+| [2048-build-array-from-permutation](https://github.com/prince950408/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prince950408/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/prince950408/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
