@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/prince950408/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -188,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/prince950408/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
