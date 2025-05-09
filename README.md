@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prince950408/Leetcode/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/prince950408/Leetcode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/prince950408/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prince950408/Leetcode/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [3637-count-number-of-balanced-permutations](https://github.com/prince950408/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prince950408/Leetcode/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/prince950408/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prince950408/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/prince950408/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
 | ------- |
