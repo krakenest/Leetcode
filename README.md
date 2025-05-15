@@ -74,7 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/prince950408/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/prince950408/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
-| [2215-finding-3-digit-even-numbers](https://github.com/prince950408/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prince950408/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -93,7 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prince950408/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prince950408/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1500-count-largest-group](https://github.com/prince950408/Leetcode/tree/master/1500-count-largest-group) |
-| [2215-finding-3-digit-even-numbers](https://github.com/prince950408/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prince950408/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prince950408/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -173,7 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/prince950408/Leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
-| [2215-finding-3-digit-even-numbers](https://github.com/prince950408/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Backtracking
 |  |
@@ -253,8 +250,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/prince950408/Leetcode/tree/master/0029-divide-two-integers) |
-## Enumeration
-|  |
-| ------- |
-| [2215-finding-3-digit-even-numbers](https://github.com/prince950408/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
