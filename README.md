@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/prince950408/Leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prince950408/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/prince950408/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prince950408/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/prince950408/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3647-zero-array-transformation-iii](https://github.com/prince950408/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prince950408/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/prince950408/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/prince950408/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/prince950408/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3321-type-of-triangle](https://github.com/prince950408/Leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/prince950408/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prince950408/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prince950408/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/prince950408/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
