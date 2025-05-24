@@ -1,0 +1,1 @@
+def find_words_containing(words, x) = words.each_with_index.filter {|(w, i)| w.include?(x) }.collect(&:last)
