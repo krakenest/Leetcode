@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prince950408/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prince950408/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1894-merge-strings-alternately](https://github.com/prince950408/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prince950408/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/prince950408/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prince950408/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/prince950408/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/prince950408/Leetcode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/prince950408/Leetcode/tree/master/0868-push-dominoes) |
+| [1894-merge-strings-alternately](https://github.com/prince950408/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prince950408/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
