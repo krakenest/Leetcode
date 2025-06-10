@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prince950408/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prince950408/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/prince950408/Leetcode/tree/master/0164-maximum-gap) |
+| [0605-can-place-flowers](https://github.com/prince950408/Leetcode/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/prince950408/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/prince950408/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prince950408/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prince950408/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/prince950408/Leetcode/tree/master/0605-can-place-flowers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prince950408/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prince950408/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prince950408/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
